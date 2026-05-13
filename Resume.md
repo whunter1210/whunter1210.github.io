@@ -23,7 +23,7 @@ I am a software engineer with 7 years of experience in the satellite industry. I
 
 ## <span style="color:ForestGreen">Skills</span>
 - **Languages**: *Python, JavaScript, TypeScript, Groovy, Java, C++, HTML, CSS*
-- **Tools/Frameworks**: *Docker, Kubernetes, RabbitMQ, Django, FastAPI, uv, pytest, GitHub Actions, CI/CD, Copilot, Claude Code*
+- **Tools/Frameworks**: *Docker, Kubernetes, RabbitMQ, Django, FastAPI, uv, pytest, GitHub Actions, CI/CD, GitHub Copilot, Claude Code*
 
 ## <span style="color:ForestGreen">Education</span>
 
