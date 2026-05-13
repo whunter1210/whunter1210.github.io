@@ -3,4 +3,5 @@ description: Personal resume and portfolio site for Will Hunter. Built with Jeky
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-github: [metadata]
+github:
+  repository_url: https://github.com/whunter1210/whunter1210.github.io
